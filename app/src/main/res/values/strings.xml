@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="internet_connectivity_fail">No Internet Connection…</string>
+    <string name="internet_connectivity_success">Back Online!</string>
+
+    <!-- Home Fragment -->
+    <string name="home_description">Are you ready to start quiz?</string>
+    <string name="home_description_2">Do you want to go to the next step?</string>
+    <string name="home_start">Start</string>
+    <string name="home_title">Welcome</string>
+    <string name="home_title_2">Perfect!</string>
+    <string name="home_rules_description">There are 5 rounds \n Each round contains 10 question \n15 seconds for each question \n 50 seconds life time</string>
+    <string name="home_rules_title">Rules</string>
+    <string name="home_round">Round</string>
+
+    <!-- Quiz Fragment -->
+    <string name="quiz_image_question">What does this image represent?</string>
+
+    <!-- Summary Fragment -->
+    <string name="summary_positive_button">Continue</string>
+    <string name="summary_negative_button">Try Again</string>
+    <string name="summary_finished">Finished!</string>
+    <string name="summary_finished_description">You can proceed to the next step.</string>
+    <string name="summary_timeout">Timeout!</string>
+    <string name="summary_timeout_description">Try again.</string>
+    <string name="summary_remaining_life_time">Remaining life time</string>
+
+</resources>

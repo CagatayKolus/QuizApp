@@ -1,0 +1,254 @@
+{
+  "questionList": [
+    {
+      "questionId": 1,
+      "questionText": "What are trout, carp and, barracuda?",
+      "answer": {
+        "option": [
+          {
+            "id": 1,
+            "text": "Bird"
+          },
+          {
+            "id": 2,
+            "text": "Fish"
+          },
+          {
+            "id": 3,
+            "text": "Cat"
+          },
+          {
+            "id": 4,
+            "text": "Dog"
+          }
+        ],
+        "correctOptionId": 2
+      }
+    },
+    {
+      "questionId": 2,
+      "questionText": "Which planet is known as the Red Planet?",
+      "answer": {
+        "option": [
+          {
+            "id": 1,
+            "text": "Earth"
+          },
+          {
+            "id": 2,
+            "text": "Sun"
+          },
+          {
+            "id": 3,
+            "text": "Mars"
+          },
+          {
+            "id": 4,
+            "text": "Venus"
+          }
+        ],
+        "correctOptionId": 3
+      }
+    },
+    {
+      "questionId": 3,
+      "questionText": "Which is the next number in the following sequence– 7, 14, 21, 28?",
+      "answer": {
+        "option": [
+          {
+            "id": 1,
+            "text": "30"
+          },
+          {
+            "id": 2,
+            "text": "32"
+          },
+          {
+            "id": 3,
+            "text": "34"
+          },
+          {
+            "id": 4,
+            "text": "35"
+          }
+        ],
+        "correctOptionId": 4
+      }
+    },
+    {
+      "questionId": 4,
+      "questionText": "What is the chemical formula for water?",
+      "answer": {
+        "option": [
+          {
+            "id": 1,
+            "text": "H3O"
+          },
+          {
+            "id": 2,
+            "text": "H2O"
+          },
+          {
+            "id": 3,
+            "text": "H2O2"
+          },
+          {
+            "id": 4,
+            "text": "HO"
+          }
+        ],
+        "correctOptionId": 2
+      }
+    },
+    {
+      "questionId": 5,
+      "questionText": "What is the capital of Turkey?",
+      "answer": {
+        "option": [
+          {
+            "id": 1,
+            "text": "Ankara"
+          },
+          {
+            "id": 2,
+            "text": "Istanbul"
+          },
+          {
+            "id": 3,
+            "text": "Antalya"
+          },
+          {
+            "id": 4,
+            "text": "Konya"
+          }
+        ],
+        "correctOptionId": 1
+      }
+    },
+    {
+      "questionId": 6,
+      "questionText": "What do you call a house made of ice?",
+      "answer": {
+        "option": [
+          {
+            "id": 1,
+            "text": "Igloo"
+          },
+          {
+            "id": 2,
+            "text": "Factory"
+          },
+          {
+            "id": 3,
+            "text": "Shipyard"
+          },
+          {
+            "id": 4,
+            "text": "Apartment"
+          }
+        ],
+        "correctOptionId": 1
+      }
+    },
+    {
+      "questionId": 7,
+      "questionText": "Which is the largest animal in the world?",
+      "answer": {
+        "option": [
+          {
+            "id": 1,
+            "text": "Ant"
+          },
+          {
+            "id": 2,
+            "text": "Eagle"
+          },
+          {
+            "id": 3,
+            "text": "Blue whale"
+          },
+          {
+            "id": 4,
+            "text": "Lion"
+          }
+        ],
+        "correctOptionId": 3
+      }
+    },
+    {
+      "questionId": 8,
+      "questionText": "https://www.welovequizzes.com/wp-content/uploads/2021/02/pexels-mentatdgt-1049622.jpg",
+      "answer": {
+        "option": [
+          {
+            "id": 1,
+            "text": "Snorlax"
+          },
+          {
+            "id": 2,
+            "text": "Pikachu"
+          },
+          {
+            "id": 3,
+            "text": "Raichu"
+          },
+          {
+            "id": 4,
+            "text": "Pichu"
+          }
+        ],
+        "correctOptionId": 2
+      }
+    },
+    {
+      "questionId": 9,
+      "questionText": "https://www.welovequizzes.com/wp-content/uploads/2021/02/pexels-maria-geller-2127024.jpg",
+      "answer": {
+        "option": [
+          {
+            "id": 1,
+            "text": "BMW"
+          },
+          {
+            "id": 2,
+            "text": "Volkswagen"
+          },
+          {
+            "id": 3,
+            "text": "Audi"
+          },
+          {
+            "id": 4,
+            "text": "Citroen"
+          }
+        ],
+        "correctOptionId": 1
+      }
+    },
+    {
+      "questionId": 10,
+      "questionText": "https://photoshootgoals.com/wp-content/uploads/2020/04/egyptian-pyramid-photo-quiz-1170x773.jpg",
+      "answer": {
+        "option": [
+          {
+            "id": 1,
+            "text": "Pharaoh’s Tomb"
+          },
+          {
+            "id": 2,
+            "text": "Joseph’s Tomb"
+          },
+          {
+            "id": 3,
+            "text": "Egyptian Pyramid"
+          },
+          {
+            "id": 4,
+            "text": "Lotus Temple"
+          }
+        ],
+        "correctOptionId": 3
+      }
+    }
+  ]
+}
