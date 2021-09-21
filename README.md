@@ -16,8 +16,8 @@ If the app cannot get questions, check the mock quiz API.
 #### 2. Ready to run.
 
 ## Features
-- Quiz Features (Listing, Deleting, Time)
-- Caching Questions (Offline Capability)
+- Quiz Features (Getting questions and listing answers, deleting cached questions, timer for life time and remaining time)
+- Caching Questions (Offline capability)
 - Unit Tests
 
 ## Tech Stack
